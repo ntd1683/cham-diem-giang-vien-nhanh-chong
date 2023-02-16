@@ -3,8 +3,9 @@
 Code được viết ra dành cho sinh viên hutech giúp chấm điểm giáo viên nhanh chóng :3
 
 ## Features
+
 - Được Viết Bằng Ngôn Ngữ `JAVASCRIPT` và xử lý bằng `CONSOLE DEV TOOL` của trình duyệt
-- 
+
 ## Chuẩn Bị
 
 - Coppy code từ file [code.js](https://github.com/ntd1683/cham-diem-giang-vien-nhanh-chong/blob/main/code.js)
