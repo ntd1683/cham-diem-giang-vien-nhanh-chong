@@ -1,8 +1,8 @@
-# cham-diem-giang-vien-nhanh-chong
+# Chấm Điểm Giáo Viên Nhanh Chóng
 
 Code được viết ra dành cho sinh viên hutech giúp chấm điểm giáo viên nhanh chóng :3
 
-## Features
+## Đặc Điểm
 
 - Được Viết Bằng Ngôn Ngữ `JAVASCRIPT` và xử lý bằng `CONSOLE DEV TOOL` của trình duyệt
 
