@@ -1,3 +1,5 @@
+if (confirm('Hãy kiểm tra xem bạn đã nhập các phần cần nhập chữ chưa ?')) {
+	
 do {
 	point = prompt(
 	  "Bạn chấm nhanh thầy mấy điểm trên thang 5(chỉ nhập số từ 1 tới 5)",
@@ -68,4 +70,5 @@ do {
   await sleep(100);
   btn_luu_ket_qua[0].click();
   alert("Đã nộp!!!");
+  }
   

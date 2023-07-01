@@ -6,6 +6,14 @@ Code được viết ra dành cho sinh viên hutech giúp chấm điểm giáo v
 
 - Được Viết Bằng Ngôn Ngữ `JAVASCRIPT` và xử lý bằng `CONSOLE DEV TOOL` của trình duyệt
 
+## Đặc Điểm
+
+- Được Viết Bằng Ngôn Ngữ `JAVASCRIPT` và xử lý bằng `CONSOLE DEV TOOL` của trình duyệt
+
+## Đặc Điểm
+
+-  Lưu ý : Bạn cần nhập các ô (sđt , email, ngành học) trước khi chạy code
+
 ## Chuẩn Bị
 
 - Coppy code từ file [code.js](https://github.com/ntd1683/cham-diem-giang-vien-nhanh-chong/blob/main/code.js)
