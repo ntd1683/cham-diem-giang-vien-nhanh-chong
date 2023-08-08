@@ -6,11 +6,7 @@ Code được viết ra dành cho sinh viên hutech giúp chấm điểm giáo v
 
 - Được Viết Bằng Ngôn Ngữ `JAVASCRIPT` và xử lý bằng `CONSOLE DEV TOOL` của trình duyệt
 
-## Đặc Điểm
-
-- Được Viết Bằng Ngôn Ngữ `JAVASCRIPT` và xử lý bằng `CONSOLE DEV TOOL` của trình duyệt
-
-## Đặc Điểm
+## Lưu Ý
 
 -  Lưu ý : Bạn cần nhập các ô (sđt , email, ngành học) trước khi chạy code
 
